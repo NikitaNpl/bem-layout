@@ -1,5 +1,5 @@
 # bem-layout
-[Preview](https://nikitanpl.github.io/clone-Trello/index.html)
+[Preview](https://nikitanpl.github.io/bem-layout/)
 
 ## Стиль описания БЭМ
 1. Несколько слов в одном названии разделяются дефисом.
