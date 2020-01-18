@@ -1,6 +1,6 @@
 # bem-layout
+[Preview](https://nikitanpl.github.io/clone-Trello/index.html)
 
-____
 ## Стиль описания БЭМ
 1. Несколько слов в одном названии разделяются дефисом.
 Пример `HTML` кода:
